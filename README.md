@@ -22,7 +22,11 @@ Premium glasspunk single-page portfolio for **Moe Kyaw Aung** — Senior Android
 - Contact form with validation
 
 ## GitHub Pages Deployment
-1. Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` in `package.json` and `vite.config.js`.
+1. Replace `Dev-moe-kyawaung` and `Moe-Kyaw-Aung-Portfolio-website-V07` in `package.json` and `vite.config.js`.
 2. Install dependencies:
    ```bash
    npm install
+npm run dev      # Start development server
+npm run build    # Build for production
+npm run preview  # Preview production build locally
+npm run deploy   # Deploy to GitHub Pages
