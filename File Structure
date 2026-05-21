@@ -1,0 +1,20 @@
+moe-kyaw-aung-portfolio-v7/
+├─ index.html
+├─ package.json
+├─ vite.config.js
+├─ README.md
+├─ LICENSE
+├─ src/
+│  ├─ main.jsx
+│  ├─ App.jsx
+│  ├─ styles/
+│  │  └─ app.css
+│  └─ data/
+│     └─ content.js
+└─ public/
+   ├─ favicon.svg
+   └─ images/
+      ├─ profile.webp
+      ├─ project-1.webp
+      ├─ project-2.webp
+      └─ project-3.webp
